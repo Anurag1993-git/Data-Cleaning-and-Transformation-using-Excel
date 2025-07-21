@@ -16,7 +16,7 @@ The goal was to:
 1. **Clean and merge all datasets**  
 2. **Standardize fields (Customers, Products, Regions)**  
 3. **Create calculated fields (Revenue, Net Sales, Return Rate)**  
-4. **Prepare pivot-ready tables** for further visualization
+4. **Prepare power-query tables** for further visualization
 
 ---
 
@@ -36,8 +36,7 @@ The goal was to:
 - **Microsoft Excel**:
   - Data Cleaning: `TRIM()`, `CLEAN()`, `PROPER()`
   - Data Validation & removing duplicates
-  - Date extraction: `YEAR()`, `MONTH()`, `TEXT()`
-  - Lookup functions: `VLOOKUP()`, `XLOOKUP()`
+  - Date extraction: `YEAR()`, `MONTH()`, `TEXT()'
   - Calculated columns: `Revenue = Quantity * Unit_Price`
   - Pivot table preparation
 - **Data Merging**: 1997 & 1998 sales data combined into a single table with `Year` column
