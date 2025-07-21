@@ -38,7 +38,7 @@ The goal was to:
   - Data Validation & removing duplicates
   - Date extraction: `YEAR()`, `MONTH()`, `TEXT()'
   - Calculated columns: `Revenue = Quantity * Unit_Price`
-  - Pivot table preparation
+  - Power Query Tale preparation
 - **Data Merging**: 1997 & 1998 sales data combined into a single table with `Year` column
 - **Return Analysis**: `Return Rate = Returned_Units / Total_Units`
 
